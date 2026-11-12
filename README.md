@@ -17,6 +17,7 @@ application source stays in its own private repo.
 | `/galilee/` | About Galilee |
 | `/galilee/privacy/` | Privacy Policy — **required** by App Store Connect and Play Console |
 | `/galilee/support/` | Support page — **required** as the listing's Support URL |
+| `/galilee/contact/` | Contact — email and Instagram |
 
 ## Not yet published
 
